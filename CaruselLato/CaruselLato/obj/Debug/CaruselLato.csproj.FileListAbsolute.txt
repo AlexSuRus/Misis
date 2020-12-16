@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\bin\Debug\CaruselLato.exe.config
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\bin\Debug\CaruselLato.exe
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\bin\Debug\CaruselLato.pdb
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.Form1.resources
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.Properties.Resources.resources
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.exe
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.pdb
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.Form2.resources
+C:\Users\Dell\source\repos\CaruselLato\CaruselLato\obj\Debug\CaruselLato.Form3.resources
